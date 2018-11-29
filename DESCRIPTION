@@ -1,0 +1,15 @@
+Package: ExamplePackage
+Type: Package
+Title: Creating Our First Package
+Version: 0.1.0
+Author: Riley Mummah
+Maintainer: Riley Mummah <rom5173@ucla.edu>
+Description: We are building an R package that includes
+    the functions we created in Homework 2 and 3.
+License: UCLA
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2
+RoxygenNote: 6.1.1

@@ -63,4 +63,5 @@ saveout<-logtransformed(NumericVector = c(5.21, 2.03, 1.49, 13.28, 474.10, 21.81
 saveout$InputVector
 saveout$logTransformVec
 
-#Add a comment
+# Add a comment
+# Add more comments
